@@ -5,3 +5,4 @@ So [I](http://i.imgflip.com/1snldy.jpg) can remember them
 The project has been initialized with :
 - `jdk 17`
 - `maven`
+- `spring boot 3.0.5`
